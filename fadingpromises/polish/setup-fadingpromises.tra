@@ -1,0 +1,35 @@
+@0    = ~Fading Promises Mod do Baldur's Gate II~
+@1    = ~Piêœæ Amaunatora~
+@2    = ~Wekiera jest w prostej linii spadkobierczyni¹ zwyk³ej maczugi. Jest to po prostu drewniany trzonek, na którym zosta³a osadzona kamienna lub metalowa g³owica, uzbrojona w kolce, æwieki lub inne ostre zakoñczenia.~
+@3    = ~Piêœæ Amaunatora 
+Wekiera ta zosta³a wykuta przez s³ugi Amaunatora, boga s³oñca ze staro¿ytnego królestwa Netheril, by pomóc im zwalczaæ z³ych nieumar³ych. Umagicznienia na³o¿one na ten relikt pozwalaj¹ jego w³aœcicielowi wezwaæ Promieñ s³oñca, którego czysta energia ¿yciowa niesie zgubê nieumar³ym.
+
+PARAMETRY:
+
+Obra¿enia: 1K8 +2, +2 przeciw z³ym istotom, zadaje podwójne obra¿enia nieumar³ym 
+TraK0: +2, +2 przeciw z³ym istotom
+Typ obra¿eñ: obuchowe
+Specjalne:
+ Raz dziennie pozwala rzuciæ Promieñ s³oñca
+  Obra¿enia: 3K6 (wszystkie istoty znajduj¹ce siê w obszarze dzia³ania czaru musz¹ wykonaæ rzut obronny przeciw czarom lub zostan¹ oœlepione na 10 rund)
+  Nieumarli: otrzymuj¹ 1-6 punktów obra¿eñ za ka¿dy poziom rzucaj¹cego (musz¹ wykonaæ udany rzut obronny przeciw czarom, lub zostan¹ zniszczeni) 
+  Zasiêg: 7 metrów 
+  Obszar dzia³ania: 7 metrów 
+Waga: 2
+OpóŸnienie: 3
+Rodzaj bieg³oœci: wekiera 
+Typ broni: 1-rêczna
+Wymagana si³a: 6
+Nie mo¿e u¿ywaæ:
+ Druid
+ Mag~
+@4    = ~Aidan~
+@5    = ~Witaj, wêdrowcze! Jaka¿ to potrzeba sprowadza ciê ku tej wielce ponurej dzielnicy?~ [baidan03] ~Witaj, wêdrowczyni! Jaka¿ to potrzeba sprowadza ciê ku tej wielce ponurej dzielnicy?~ [baidan03]
+@6    = ~Selma~
+@7    = ~Spêdzacie resztê nocy towarzysz¹c sobie w milczeniu, czasem rozmawiaj¹c, a czasem po prostu rozkoszuj¹c siê przyjemn¹ cisz¹ nocy. Mo¿e to tylko twa wyobraŸnia, ale gwiazdy wydaj¹ siê jaœniejsze i piêkniejsze ni¿ zazwyczaj. W koñcu indygowa ciemnoœæ wschodniego nieba zaczyna siê rozjaœniaæ, wpierw w barwê kobaltu, a nastêpnie w subtelny ró¿ i z³oto zbli¿aj¹cego siê poranka.~ [baidan22]
+
+
+/* journal entries */
+@10000 = ~Staro¿ytny i Niespokojny Duch
+
+Pewna kobieta opowiedzia³a mi o wa³êsaj¹cym siê po zmroku w Dzielnicy cmentarnej duchu.~
