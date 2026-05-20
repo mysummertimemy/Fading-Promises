@@ -47,6 +47,7 @@ LANGUAGE ~Italiano~ ~italian~  ~fadingpromises/italian/setup-fadingpromises.tra~
 LANGUAGE ~Russian~ ~russian~  ~fadingpromises/russian/setup-fadingpromises.tra~
 LANGUAGE ~Francais~ ~french~  ~fadingpromises/french/setup-fadingpromises.tra~
 LANGUAGE ~Simplified Chinese By Archenemy~ ~schinese~ ~fadingpromises/schinese/setup-fadingpromises.tra~ ~fadingpromises/schinese/install.tra~
+LANGUAGE ~Polish (by Cuttooth, SoM Member, part of CoB Clan)~  ~polish~ ~fadingpromises/polish/setup-fadingpromises.tra~
 
 BEGIN @0
 
